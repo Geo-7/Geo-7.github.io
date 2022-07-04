@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Geo-7.github.io/static/css/main.983148d2.css",
+    "main.js": "/Geo-7.github.io/static/js/main.829207d7.js",
+    "static/media/George.svg": "/Geo-7.github.io/static/media/George.51b398d1fa7526fa969254fd57033868.svg",
+    "index.html": "/Geo-7.github.io/index.html",
+    "main.983148d2.css.map": "/Geo-7.github.io/static/css/main.983148d2.css.map",
+    "main.829207d7.js.map": "/Geo-7.github.io/static/js/main.829207d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.983148d2.css",
+    "static/js/main.829207d7.js"
+  ]
+}
