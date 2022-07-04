@@ -28,14 +28,8 @@ export default function MainContent(props) {
     <div className="m-auto w-11/12 md:w-3/4">
       <h1 className="my-2 font-extrabold">My Interests</h1>
       <div className="grid grid-cols-1 md:grid-cols-4">
-        {interests.map(item => (
-          <Interests
-            key={item.id}
-            width={item.width}
-            height={item.height}
-            title={item.title}
-            story={item.story}
-          />
+        {interests.map((item) => (
+          <Interests key={item.id} {...item} />
         ))}
       </div>
     </div>
