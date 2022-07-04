@@ -1,4 +1,5 @@
 import PHolder from './PHolder';
+import React from 'react';
 export default function MainPhoto(props) {
   return (
     <div className="h-96 mx-auto w-11/12 md:w-3/4 border-solid border border-black">

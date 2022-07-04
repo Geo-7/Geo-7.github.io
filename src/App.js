@@ -1,4 +1,5 @@
 import NavBar from './components/NavBar';
+import React from 'react';
 import MainPhoto from './components/MainPhoto';
 import MainContent from './components/MainContent';
 import Footer from './components/Footer';
